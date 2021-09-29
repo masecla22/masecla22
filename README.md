@@ -5,4 +5,4 @@ My favourite things to build are
  - centralized systems for parallel computing
  - dynamic systems for scaling computing instances
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=masecla22&count_private=true)](https://masecla.dev)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=masecla22&count_private=true&&theme=merko)](https://masecla.dev)
